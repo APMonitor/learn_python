@@ -1,2 +1,3 @@
-# learn_python
-Introduction to Scientific Computing with Python
+# Learn Python
+
+Introduction to Scientific Computing with Python. See https://apmonitor.com/che263 for course content.
